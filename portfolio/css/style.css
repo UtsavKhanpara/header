@@ -1,0 +1,17 @@
+.btn{
+    border: 1px solid #55e6a5!important;
+    margin-left: 40px;
+}
+.text-center{
+    margin: 2px !important;
+}
+.bg-dark{
+    background-color: #141c27 !important;
+}
+ul li a{
+    transition: 0.5s;
+}
+ul li a:hover{
+    color:#55e6a5!important; 
+}
+
